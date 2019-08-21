@@ -1,0 +1,22 @@
+{
+  "name": "Hong Lou Meng",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/hong-lou-meng/master/assets",
+  "book_id": 1033,
+  "book_url": "https://bubblin.io/book/hong-lou-meng-by-xueqin-cao"
+}
